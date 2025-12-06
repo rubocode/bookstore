@@ -16,6 +16,7 @@
 
 ### Technical
 
+* [Analysis](analysis)
 * [Architecture](architecture)
 * [Events](events)
 * [Design](design)
