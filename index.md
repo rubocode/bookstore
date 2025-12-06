@@ -1,5 +1,4 @@
-> [home](/)
-> &bull; [specs](/specs)
+> [home](/specs)
 > &bull; Work in progress...
 
 ![banner](/bookstore/photos/banner.png)
