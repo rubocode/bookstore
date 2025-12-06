@@ -2,7 +2,7 @@
 
 ![banner](/bookstore/photos/banner.png)
 
-## Business
+## Business Aspects
 
 * [Charter](charter)
 * [Background](background)
