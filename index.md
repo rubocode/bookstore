@@ -1,7 +1,7 @@
 > [home](/)
 > &bull; [profile](/profile)
 
-![banner](/photos/banner.png)
+![banner](/bookstore/photos/banner.png)
 
 ## Bookstore Specification
 
