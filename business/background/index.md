@@ -1,4 +1,4 @@
-> [home](../)
+> [business](../)
 
 ![banner](/bookstore/photos/banner.png)
 
