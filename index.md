@@ -1,5 +1,6 @@
 > [home](/)
-> &bull; [library](/library)
+> &bull; [specs](/specs)
+> &bull; Work in progress...
 
 ![banner](/bookstore/photos/banner.png)
 
@@ -12,6 +13,7 @@
 
 * [Introduction](introduction)
 * [Background](background)
+* [People](people)
 * [Requirements](requirements)
 
 ### Technical
