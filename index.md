@@ -1,5 +1,5 @@
 > [home](/)
-> &bull; [profile](/profile)
+> &bull; [library](/library)
 
 ![banner](/bookstore/photos/banner.png)
 
