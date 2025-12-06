@@ -1,4 +1,5 @@
 > [home](/)
+> &bull; [specs](/specs)
 
 ![banner](/bookstore/photos/banner.png)
 
