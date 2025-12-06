@@ -1,6 +1,6 @@
 > [home](../)
 
-![banner](/bookstore/photos/banner.png)
+![banner](/photos/banner.png)
 
 ## Events
 
