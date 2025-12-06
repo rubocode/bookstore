@@ -1,5 +1,5 @@
 # Bookstore Specification
 
-[Index](index)
+[Index](./)
 
 Enjoy!
