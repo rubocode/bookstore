@@ -12,6 +12,7 @@
 
 * [Introduction](introduction)
 * [Background](background)
+* [People](people)
 * [Requirements](requirements)
 
 ### Technical
