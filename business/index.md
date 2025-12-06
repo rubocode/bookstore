@@ -4,7 +4,7 @@
 
 ## Business
 
-* [Introduction](introduction)
+* [Charter](charter)
 * [Background](background)
 * [People](people)
-* [Requirements](requirements)
+* [Scope](scope)
