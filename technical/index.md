@@ -2,8 +2,8 @@
 
 ![banner](/bookstore/photos/banner.png)
 
-## Technical Aspects
- 
+## Technical
+
 * [Analysis](analysis)
 * [Architecture](architecture)
 * [Events](events)
