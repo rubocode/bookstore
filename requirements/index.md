@@ -1,5 +1,5 @@
 > [home](../)
 
-![banner](/photos/banner.png)
+![banner](/bookstore/photos/banner.png)
 
 ## Requirements
