@@ -5,8 +5,7 @@
 
 ## Software System Definition
 
-> You don't understand anything until you learn it more than one way.  
-> **Marvin Minsky**
+> Digital Mom & Pop Bookstore
 
 * [Introduction](introduction)
 * [Business](business)
