@@ -48,7 +48,7 @@ Alan Turing.  If you can't distinguish between the agent and a human — both of
 placed in a black box scenario — based on input and output (stimulus and response),
 the agent is considered intelligent.
 
-Now, we can look at any black box system Stimulus Response System (SRS &#x1F609;).
+Now, we can look at any black box system as a Stimulus Response System (SRS &#x1F609;).
 Let's begin calling the stimuli by another name — triggers — an we are in business
 with events.  An event encapsulates a trigger and a response togther into a
 convenient abstraction.
@@ -57,16 +57,18 @@ convenient abstraction.
 > The response may also invoke other triggers in turn.
 > The event is complete when no more triggers are invoked by the response.
 
-Suppose we — in the good old days — we slide a quarter into a vending machine (VM &#x1F609;)
-and pull a crank, we get a can of Coke&trade; out.  Let's assume that the only product
-dispensed by the VM is Coke&trade;.
+Suppose we — as in the good old days — slide a quarter into a vending machine
+(VM &#x1F609;) and pull a crank, we get a can of Coke&trade; out.
+Let's assume that the only product dispensed by the VM is Coke&trade;.
 
 ![photo](photos/tar.png)
 
-The trigger is the pull of the crank.  The VM responds by spitting out a can of Coke&trade;
-and ringing a bell.  The intelligence inside the VM is an agent.  It gets triggerred by
-the pull of the crank.  The agent then triggers the dispenser to spit out a can of
-Coke&trade; and also triggers the bell to ring!
+The trigger is the pull of the crank.
+The VM responds by spitting out a can of Coke&trade;
+and ringing a bell.  The intelligence inside the VM is an agent.
+It gets triggerred by the pull on the crank.
+The agent then triggers the dispenser to spit out a can of Coke&trade;
+and also triggers the bell to ring!
 
 > An _event_ captures the _response_ of an _agent_ to a _trigger_.
 > A response, in turn, is another set of events.
@@ -90,7 +92,7 @@ as an EVENT.
 
 How cool is that!
 
-> It is turtles all the way down!
+> It's turtles all the way down!
 
 PS: If you're curious as to what happened to the SIMS at SLIIT, let me be brief.
 They outsourced the project to a reputed local company for multiple millions.
