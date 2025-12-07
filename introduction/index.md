@@ -90,9 +90,9 @@ as an EVENT.
 * A product shipment is an event.
 * A use case is an event.
 
-> A function call is also an event!
-> A clock cycle is an event!
-> It is turtles all the way down!
+> * A function call is also an event!
+> * A clock cycle is an event!
+> * It is turtles all the way down!
 
 How cool is that!
 
