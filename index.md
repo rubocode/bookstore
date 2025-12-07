@@ -8,7 +8,7 @@
 
 > Digital Mom & Pop Bookstore
 
-| [Introduction](introduction) | [inception](business) |
+| [Introduction](introduction) | [Inception](inception) |
 
 * [Analysis](analysis)
 * [Architecture](architecture)
