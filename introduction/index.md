@@ -10,7 +10,7 @@ slightly novel approach to defining a System of Software (SOS).
 > It will define an essential aspects of an SOS for a Mom & Pop bookstore.
 > The whole thing is an excercise to capture and crystallize the novel approach.
 
-I was first introduced to _Software Requirements Specifications (SRS)_ after
+I was first introduced to Software Requirements Specifications (SRS) after
 I joined Salomon Brothers as a Programmer Analyst as my first job after graduation.
 I had a few years of programming experience under my belt already.
 
@@ -72,9 +72,9 @@ and ringing a bell.  The intelligence inside the VM is an agent.  It gets trigge
 the pull of the crank.  The agent then triggers the dispenser to spit out a can of
 Coke&trade; and also triggers the bell to ring!
 
-> An _event_ captures the response of an _agent_ to a _trigger_.
+> An _event_ captures the _response_ of an _agent_ to a _trigger_.
 > A response, in turn, is another set of events.
-> An event is complete when its responses don't generate any more triggers.
+> An event is complete when its response cluster doesn't generate any more triggers.
 
 We can now capture a useful acronym to to summarize what an event is:
 
