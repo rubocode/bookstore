@@ -65,6 +65,8 @@ Suppose we — in the good old days — we slide a quarter into a vending machin
 and pull a crank, we get a can of Coke&trade; out.  Let's assume that the only product
 dispensed by the VM is Coke&trade;.
 
+![photo](photos/tar.png)
+
 The trigger is the pull of the crank.  The VM responds by spitting out a can of Coke&trade;
 and ringing a bell.  The intelligence inside the VM is an agent.  It gets triggerred by
 the pull of the crank.  The agent then triggers the dispenser to spit out a can of
