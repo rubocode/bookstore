@@ -31,12 +31,8 @@ They had evolved from a Microsoft Access project into a Microsoft SQL Server pro
 All the domain knowledge was inside two brains — that of the Project Manager and
 the Technical Lead. The project was dragging on endlessly.
 
-What SLIIT did surprises me even today.  They made that Project Manager, the Head
-of Academic Affairs (to utilize his domain knowledge) and hired me as a Product Architect
-to function as the Head of SESD.  Cute!
-
 The project was ridden with internal politics and I left after my initial six month contract.
-But, the silver lining was that I began to explore requirement captures techniques and
+But, the silver lining was that I began to explore requirement capture techniques and
 methodologies with great zeal.  While I was still working at SESD, I came across the book
 _Rapid Agile Business System Analysis: Fast, Agile, Measurable Results (Frantzen, Trond: 2015)_.
 The idea of _events_ being central to requirements gathering took root in me at that time.
@@ -97,10 +93,11 @@ How cool is that!
 > It is turtles all the way down!
 
 PS: If you're curious as to what happened to the SIMS at SLIIT, let me be brief.
-They outsourced the project to a company called 99X for multiple millions.
+They outsourced the project to a reputed local company for multiple millions.
 After about 3 years, they abandoned the project.
 Then they went into a venture with an Indian company to modify an already
-existing SIMS app.  After about 4 years and wasting yet multiple millions, that also folded.
+existing SIMS app to suit their needs.
+After about 4 years and wasting yet multiple millions, that also folded.
 Now — in 2025 — they are kind of back at square one.
 Ahem, actually worse:  they have hired an outside development team and running
 the project themselves.
