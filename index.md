@@ -3,7 +3,7 @@
 
 ![banner](/bookstore/photos/banner.png)
 
-## Bookstore Specification
+## Software System Definition (SSD) 
 
 > You don't understand anything until you learn it more than one way.  
 > **Marvin Minsky**
