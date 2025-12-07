@@ -2,7 +2,7 @@
 
 ![banner](/bookstore/photos/banner.png)
 
-## Business
+## Inception 
 
 * [Charter](charter)
 * [Background](background)
