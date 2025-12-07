@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This Software System Definiton (SSD) is meant to illustrate a
+This Software System Definition (SSD) is meant to illustrate a
 slightly novel approach to defining a System of Software (SOS).
 
 > It will define the essential aspects of an SOS for a Mom & Pop bookstore.
