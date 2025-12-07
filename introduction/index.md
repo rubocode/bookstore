@@ -90,6 +90,8 @@ as an EVENT.
 * A product shipment is an event.
 * A use case is an event.
 
+> A function is also an event!
+
 How cool is that!
 
 PS: If you're curious as to what happened to the SIMS at SLIIT, let me be brief.
