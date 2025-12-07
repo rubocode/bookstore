@@ -4,9 +4,7 @@
 
 ![banner](/bookstore/photos/banner.png)
 
-## Software System Definition
-
-> Digital Mom & Pop Bookstore
+## Digital Mom & Pop Bookstore
 
 | [Introduction](introduction) | [Inception](inception) |
 
