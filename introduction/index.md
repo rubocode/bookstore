@@ -92,9 +92,9 @@ as an EVENT.
 * A function call is also an event!
 * A clock cycle is an event!
 
-> It is turtles all the way down!
-
 How cool is that!
+
+> It is turtles all the way down!
 
 PS: If you're curious as to what happened to the SIMS at SLIIT, let me be brief.
 They outsourced the project to a company called 99X for multiple millions.
