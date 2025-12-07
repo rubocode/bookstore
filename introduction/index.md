@@ -92,6 +92,7 @@ as an EVENT.
 
 > A function call is also an event!
 > A clock cycle is an event!
+> It is turtles all the way down!
 
 How cool is that!
 
