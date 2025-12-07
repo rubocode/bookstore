@@ -11,7 +11,7 @@ I had a few years of programming experience under my belt already.
 Programmers often take SRS documents as something out of their scope to create.
 As I matured as a programmer, it became quite clear that one of the most significant
 problems of practical software development was that folks didn't quite yet know
-how to specify software in a pragmatic and durale fashion.
+how to specify software in a pragmatic and durable fashion.
 
 In 2017, I joined the Sri Lanka Institute of Information Technology (SLIIT)
 as a Product Architect to attempt to rescue its Student Information Management System (SIMS)
@@ -20,13 +20,13 @@ They had been working in a somewhat agile fashion, considering working software 
 the priority, but — in the end winging it.
 
 When I joined, the Project Manager — who was also the Head of the Software Engineering
-Services Division (SESD) had been working on it for more than a decade.
-They had evolved form a Microsoft Access project into a Microsoft SQL Server project using C#.
+Services Division (SESD) — had been working on it for more than a decade.
+They had evolved from a Microsoft Access project into a Microsoft SQL Server project using C#.
 All the domain knowledge was inside two brains — that of the Project Manager and
 the Technical Lead. The project was dragging on endlessly.
 
 What SLIIT did surprises me even today.  They made that Project Manager, the Head
-of Academic Affairs (to utilize his domain knwoledge) and hired me as a Product Architect
+of Academic Affairs (to utilize his domain knowledge) and hired me as a Product Architect
 to function as the Head of SESD.  Cute!
 
 The project was ridden with internal politics and I left after my initial six month contract.
@@ -84,3 +84,16 @@ as an EVENT.
 
 How cool is that!
 
+PS: If you're curious as to what happened to the SIMS at SLIIT, let me be brief.
+They outsourced the project to a company called 99X for multiple millions.
+After about 3 years, they abandoned the project.
+Then they went into a venture with an Indian company to modify an already
+existing SIMS app.  After about 4 years and wasting yet multiple millions, that also folded.
+Now — in 2025 — they are kind of back at square one.
+Ahem, actually worse:  they have hired an outside development team and running
+the project themselves.
+
+> If they only bothered to capture what they needed to build and had a decent
+> high-level view!
+
+Here, I am offering hope!
