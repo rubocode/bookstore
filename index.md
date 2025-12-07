@@ -10,8 +10,4 @@
 
 * [Introduction](introduction)
 * [Business](business)
-* [Analysis](analysis)
-* [Architecture](architecture)
-* [Design](design)
-* [Events](events)
-* [Objects](objects)
+* [Technical](technical)
