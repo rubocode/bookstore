@@ -7,7 +7,7 @@
 This Software System Definiton (SSD) is meant to illustrate a
 slightly novel approach to defining a System of Software (SOS).
 
-> It will define an essential aspects of an SOS for a Mom & Pop bookstore.
+> It will define the essential aspects of an SOS for a Mom & Pop bookstore.
 > The whole thing is an excercise to capture and crystallize the novel approach.
 
 I was first introduced to Software Requirements Specifications (SRS) after
