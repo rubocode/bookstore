@@ -58,7 +58,7 @@ convenient abstraction.
 > The event is complete when no more triggers are invoked by the response.
 
 Suppose we — as in the good old days — slide a quarter into a vending machine
-(VM &#x1F609;) and pull a crank, we get a can of Coke&trade; out.
+(VM &#x1F609;) and pull a crank and get a can of Coke&trade; out.
 Let's assume that the only product dispensed by the VM is Coke&trade;.
 
 ![photo](photos/tar.png)
