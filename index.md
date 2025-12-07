@@ -8,6 +8,10 @@
 
 > Digital Mom & Pop Bookstore
 
-* [Introduction](introduction)
-* [Business](business)
-* [Technical](technical)
+| [Introduction](introduction) | [inception](business) |
+
+* [Analysis](analysis)
+* [Architecture](architecture)
+* [Design](design)
+* [Events](events)
+* [Objects](objects)
