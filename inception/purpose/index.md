@@ -25,7 +25,7 @@ A vital ramification in allowing the possibility of either a web-based solution
 or a LAN-based desktop solution is that we need to capture the requirements
 at a higher level of abstraction.
 
-One set of definitions of _events_ and _objects_ that enable at least
-two very different technical _designs_.
+One set of definitions of _events_, _objects_ and _design_ that enable at least
+two very different technical _implementations_.
 
 A worthy, noble and challenging endeavor!
