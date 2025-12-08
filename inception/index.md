@@ -4,7 +4,7 @@
 
 ## Inception 
 
-* [Charter](charter)
+* [Purpose](purpose)
 * [Background](background)
 * [People](people)
 * [Scope](scope)
