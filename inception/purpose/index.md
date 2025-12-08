@@ -27,4 +27,5 @@ at a higher level of abstraction.
 
 One set of definitions of _events_ and _objects_ that enable at least
 two very different technical _designs_.
+
 A worthy, noble and challenging endeavor!
