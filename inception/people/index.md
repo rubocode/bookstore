@@ -1,4 +1,4 @@
-> [business](../)
+> [inception](../)
 
 ![banner](/bookstore/photos/banner.png)
 

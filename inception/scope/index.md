@@ -1,5 +1,5 @@
-> [home](../)
+> [inception](../)
 
 ![banner](/bookstore/photos/banner.png)
 
-## Requirements
+## Scope
