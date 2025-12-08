@@ -31,7 +31,7 @@ know the big picture.  They leave it to the customer and the project manager
 > **George S. Patton**
 
 Here, I take the opposite view.  If two guys at Bell Labs could come up with
-a foundational programming language and an operating system that has thrived for
+a foundational programming language and an operating system that have thrived for
 more than a half a century, why can't I write a software system for a
 mom & pop bookstore all by myself!
 
