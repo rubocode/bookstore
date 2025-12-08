@@ -30,9 +30,11 @@ know the big picture.  They leave it to the customer and the project manager
 > Many soldiers are led to faulty ideas of war by knowing too much about too little.  
 > **George S. Patton**
 
-Here, I take the opposite view.  If two guys at Bell Labs could come up with
-a foundational programming language and an operating system that have thrived for
-more than a half a century, why can't I write a software system for a
-mom & pop bookstore all by myself!
+Here, I take the opposite and holistic view.  If two guys at Bell Labs could
+come up with a foundational programming language and an operating system that
+have thrived for more than a half a century, why can't I write a software system
+for a mom & pop bookstore all by myself!
+
+Isn't it worthwhile to figure out how to go about doing that!
 
 From soup to nuts!
