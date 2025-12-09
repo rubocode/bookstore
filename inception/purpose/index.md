@@ -10,7 +10,7 @@
 > concerning your values, vision, mission, purpose and goals.  
 > **Brian Tracy**
 
-We are going to create a _Software System Definiton (SSD)_ for a fully
+We are going to create a _Software System Definition (SSD)_ for a fully
 digital Mom & Pop Bookstore.
 
 Fully digital means that all inventory and transactions are stored in
